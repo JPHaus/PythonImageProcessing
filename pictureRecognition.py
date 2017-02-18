@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -19,6 +18,3 @@ cv2.destroyAllWindows()
 # Save the image
 cv2.imwrite('watchgray.png', img)
 
-
-
->>>>>>> d79bb5b65e3cba0b7ea4920c75cc7b9e4df34fc3
